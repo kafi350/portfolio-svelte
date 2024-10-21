@@ -15,7 +15,7 @@ Simple portfolio using svelte!
 
 Make sure you have the following installed:
 
-- [Node.js](https://nodejs.org/) (v16 or later)
+- NodeJs
 - npm
 
 ### Installation
@@ -23,8 +23,8 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/wiktornazaruk/minimal-portfolio.git
-   cd minimal-portfolio
+   git clone https://github.com/kafi350/portfolio-svelte.git
+   cd portfolio-svelte
    ```
 
 2. Install the dependencies:
@@ -50,14 +50,3 @@ npm run build
 
 This will generate a build folder with your production-ready files.
 
-### Usage
-
-You can customize the content in the src/data/data.js file. The main components are in the src/lib/components folder.
-
-### Sveltestrap
-
-To use Sveltestrap components, refer to the Sveltestrap documentation.
-
-### Contributing
-
-If you'd like to contribute, please fork the repository and submit a pull request.
