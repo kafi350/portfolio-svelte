@@ -1,13 +1,13 @@
-# minimal-portfolio
+# portfolio-svelte
 
-Welcome to the source code of my [personal site](https://minimal-portfolio-wiktornazaruks-projects.vercel.app/).
+Simple portfolio using svelte!
 
 ## Features
 
-- Responsive design
-- SvelteKit for server-side rendering and routing
-- Sveltestrap for Bootstrap components
-- Easy to customize and extend
+- Simple Desing
+- Easy to understand
+- Using Svelte
+- Use of Easy Email Service EmailJs
 
 ## Getting Started
 

@@ -3,3 +3,4 @@ dist
 .idea
 .svelte-kit
 .vscode
+.env

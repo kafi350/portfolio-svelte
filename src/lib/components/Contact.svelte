@@ -22,9 +22,10 @@
             return;
         }
 
-        const serviceID = "service_d2693o9"; // Replace with your EmailJS service ID
-        const templateID = 'template_gywow7l';      
-        const userID = "zLOfw7STdbzENoFq5"; // Replace with your EmailJS user ID
+        const serviceID = import.meta.env.VITE_EMAILJS_SERVICE_ID;
+        const templateID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID;
+        const userID = import.meta.env.VITE_EMAILJS_USER_ID;
+
 
         const templateParams = {
             from_name,
