@@ -1,6 +1,6 @@
 const META = {
 	creation_year: 2024,
-	src: ''
+	src: 'https://github.com/kafi350/portfolio-svelte.git'
 };
 
 const PERSONAL = {

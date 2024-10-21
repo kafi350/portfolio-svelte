@@ -4,3 +4,4 @@ dist
 .svelte-kit
 .vscode
 .env
+.DS_Store
