@@ -104,7 +104,7 @@ const ABOUT = {
 		}
 	],
 	skills :[
-		'Python', 'Java', 'PHP', 'Go', 'SQL', 'NoSql', 'HTML', 'CSS', 'JavaScript', 'TypeScript', 'PyTorch', 'TensorFlow', 'Jupyter', 'SQL Server', 'Svelte', 'Sveltekit', 'React', 'Next', 'PHP', 'Node.js', 'MongoDB', 'PostgreSQL', 'Git'
+		'Python', 'Java', 'PHP', 'Go', 'SQL', 'JavaScript', 'PyTorch', 'TensorFlow', 'HTML', 'CSS', 'TypeScript',  'Jupyter', 'SQL Server', 'Svelte', 'Sveltekit', 'React', 'Next', 'Node.js', 'MongoDB', 'PostgreSQL', 'Git'
 	]
 };
 
