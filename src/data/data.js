@@ -48,7 +48,9 @@ const CONTACT = {
 
 const NAVLIST = [
 	{ id: 1, url: '/about', label: 'About' },
-	{ id: 2, url: '/contact', label: 'Contact' }
+	{ id: 2, url: '/interests', label: 'Interests' },
+	{ id: 3, url: '/contact', label: 'Contact' },
+	
 ];
 
 const ABOUT = {
@@ -160,6 +162,30 @@ const PROJECTS = [
     }
 ];
 
+const INTERESTS = {
+	medium_posts : [
+		{
+			id: 1,
+			title: 'Building a Dynamic Personal Portfolio with Svelte: A Step-by-Step Guide',
+			url: 'https://medium.com/@kafi350/building-a-dynamic-personal-portfolio-with-svelte-a-step-by-step-guide-a37f859b9475'
+		},
+		{
+			id: 2,
+			title: 'Amazon SES Service for User validation and marketing services',
+			url: 'https://medium.com/@kafi350/amazon-ses-service-for-user-validation-and-marketing-services-84aee481e98c'
+		},
+		{
+			id: 3,
+			title: 'Parallel Query Processing using GPUs and the current trend',
+			url: 'https://medium.com/@kafi350/parallel-query-processing-using-gpus-and-the-current-trend-8f81b77b38f5'
+		},
+	],
+	hobbies: [
+		'Photography', 'Traveling', 'Gaming (FIFA Fan ⚽)', 'Cooking', 'Watching Football ⚽'
+	]
+};
+
+
 const DATA = {
 	META,
 	PERSONAL,
@@ -167,7 +193,8 @@ const DATA = {
 	CONTACT,
 	NAVLIST,
 	ABOUT,
-	PROJECTS
+	PROJECTS,
+	INTERESTS
 };
 
 export default DATA;
