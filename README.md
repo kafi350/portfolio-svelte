@@ -34,19 +34,24 @@ Make sure you have the following installed:
 
 ### Running the Development Server
 
-To start the development server, run:
+To start the development server, run the following:
 
 ```bash
 npm run dev
 ```
 
-Then open your browser and navigate to http://localhost:5174/ .
 
-### Building for Production
+### Making Necessary Changes
 
-```bash
-npm run build
-```
+If you want to change the data and use this repo for your portfolio, you only need to use the data.js file and change the desired fields. 
 
-This will generate a build folder with your production-ready files.
+For the EmailJS, create an account in EmailJs and use the desired keys in a .env file! 
+
+### Contribute 
+
+Please feel free to contribute by forking if you want to add something new to the repo.
+Please leave a star ⭐ if you like the repo.
+
+Thanks!! 
+
 
