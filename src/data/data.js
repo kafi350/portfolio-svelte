@@ -179,6 +179,11 @@ const INTERESTS = {
 			title: 'Parallel Query Processing using GPUs and the current trend',
 			url: 'https://medium.com/@kafi350/parallel-query-processing-using-gpus-and-the-current-trend-8f81b77b38f5'
 		},
+		{
+			id: 4,
+			title: 'FD Files to SQL: Automating Data Transformation with Python',
+			url: 'https://medium.com/@kafi350/fd-files-to-sql-automating-data-transformation-with-python-cbe8ab0b1c9b'
+		}
 	],
 	hobbies: [
 		'Photography', 'Traveling', 'Gaming (FIFA Fan ⚽)', 'Cooking', 'Watching Football ⚽'
