@@ -183,6 +183,11 @@ const INTERESTS = {
 			id: 4,
 			title: 'FD Files to SQL: Automating Data Transformation with Python',
 			url: 'https://medium.com/@kafi350/fd-files-to-sql-automating-data-transformation-with-python-cbe8ab0b1c9b'
+		},
+		{
+			id: 5,
+			title: 'Transforming Healthcare Data: Introducing HL7toCSV',
+			url: 'https://medium.com/@kafi350/transforming-healthcare-data-introducing-hl7tocsv-2cb4ae587b0c',
 		}
 	],
 	hobbies: [
