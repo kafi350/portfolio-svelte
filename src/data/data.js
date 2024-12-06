@@ -76,7 +76,7 @@ const ABOUT = {
 				endDate: 'Present',
 				location: 'Remote',
 				description: 'Working Part-time as an AI Engineer, fine-tuning the LLM models as well as taking care of microservices for the backend.',
-				photo: { src: '/photos/contextai.jpeg', alt: 'Logo Context AI }
+				photo: { src: '/photos/contextai.jpeg', alt: 'Logo Context AI' }
 			},
 			{
 				id: 3,
