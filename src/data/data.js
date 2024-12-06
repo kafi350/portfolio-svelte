@@ -60,7 +60,7 @@ const ABOUT = {
 		experience: [
 			{
 				id: 1,
-				company: 'ASSA ABLOY Group',
+				company: 'Doorbird Part of ASSA ABLOY Group',
 				jobTitle: 'Software Engineer',
 				startDate: 'November 2022',
 				endDate: 'Present',
@@ -70,6 +70,16 @@ const ABOUT = {
 			},
 			{
 				id: 2,
+				company: 'ContextAI GmbH',
+				jobTitle: 'AI Engineer',
+				startDate: 'November 2024',
+				endDate: 'Present',
+				location: 'Remote',
+				description: 'Working Part-time as an AI Engineer, fine-tuning the LLM models as well as taking care of microservices for the backend.',
+				photo: { src: '/photos/contextai.jpeg', alt: 'Logo Context AI }
+			},
+			{
+				id: 3,
 				company: 'University Hospital Magdeburg',
 				jobTitle: 'IT Project Staff (Software Engineer)',
 				startDate: 'January 2022',
@@ -79,7 +89,7 @@ const ABOUT = {
 				photo: { src: '/photos/ukmd.jpg', alt: 'Logo University Hospital Magdeburg' }
 			},
 			{
-				id: 3,
+				id: 4,
 				company: 'Adroit Solutions',
 				jobTitle: 'Technical Support Engineer',
 				startDate: 'December 2018',
