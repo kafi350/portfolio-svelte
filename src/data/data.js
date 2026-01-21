@@ -41,7 +41,7 @@ const SKILLS = {
 };
 
 const CONTACT = {
-	email: 'kafiabdullahil96@gmail.com',
+	email: '***',
 	github: 'https://github.com/kafi350',
 	linkedin: 'https://www.linkedin.com/in/abdullahil-kafi120'
 };
